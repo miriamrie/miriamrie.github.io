@@ -1,9 +1,3 @@
 # miriamrie.github.io
 
-<!DOCTYPE html>
-<html>
-  <body>
-    <h1> Hello from Github Pages</h1>
-    <p> Test </p>  
-  </body>
-</html>
+![4](https://github.com/user-attachments/assets/f98c05b3-dc5d-41de-b271-6bf27278f573)
